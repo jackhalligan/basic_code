@@ -1,0 +1,55 @@
+/* CSS project */
+
+* {
+	font-size: 1.07em;
+	color: #000;
+	background-color: #328A2E;
+	border: 2px black solid;
+}
+
+ul li {
+	list-style: none;
+}
+
+/*******************
+HEADER & FOOTER
+*******************/
+
+nav ul {
+	list-style: none;
+	;
+}
+
+nav ul li {
+	display:inline-block;
+}
+
+/*******************
+MAIN PAGE
+*******************/
+
+#rooney {
+	margin:150px 0 10px 100px;
+	padding: 50px;
+}
+
+h1 {
+	color: red;
+}
+
+#costa h1{
+	color: blue;
+}
+
+.wrapper {
+	width:90%;
+}
+
+.player span {
+	font-weight: bold;
+	color: orange;
+}
+
+#costa span {
+	color:aqua;
+}
